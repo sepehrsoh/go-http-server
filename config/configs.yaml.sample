@@ -1,0 +1,6 @@
+AuthenticationConfiguration:
+  tokenSecret: secret
+
+PanelServer:
+  host: localhost
+  httpPort: 8000

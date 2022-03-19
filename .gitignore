@@ -1,3 +1,6 @@
 config/*.yaml
 main.*
 /vendor
+*.log
+go-http-server
+go.sum
